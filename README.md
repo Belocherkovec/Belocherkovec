@@ -6,7 +6,7 @@ I like working on interesting and complex projects. I can understand other peopl
 
 ### 💻 Tech Stack:
 * Basics: HTML, CSS, Git, Bash.
-* Frontend: JavaScript, React, TypeScript.
+* Frontend: JavaScript, React, Redux, TypeScript.
 * Backend: Node.js, Express, Sequelize, Routing-controllers.
 * Design: Figma, Photoshop.
 
