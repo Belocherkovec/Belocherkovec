@@ -1,30 +1,29 @@
-### Hi there 👋
-I'm Nikolay, programmer, front-end developer. I'm interested in developing in IT. I have both personal and commercial work experience.
+### Hi, I'm Nikolai 👋
 
-### 🌟About Me:
-I like working on interesting and complex projects. I can understand other people's code. Outside of work, I love talking to people, going to Meetups and programming events, good coffee, and working code. I study at school 21, I am constantly developing and do not stand still.
+**Senior Frontend Developer · React / TypeScript**
 
-### 💻 Tech Stack:
-* Basics: HTML, CSS, Git, Bash.
-* Frontend: JavaScript, React, Redux, TypeScript.
-* Backend: Node.js, Express, Sequelize, Routing-controllers.
-* Design: Figma, Photoshop.
+Currently at **VK / Odnoklassniki**, previously at **Sber** and **Moscow Metro**.
 
-### 📫 How to reach me:
-* Email: belocherkovec@gmail.com
-* Vk: [Nkbelotserkovets](https://vk.com/nkbelotserkovets)
-* Telegram: [Belotserkovets](https://t.me/Belotserkovets)
-<!--
-**Belocherkovec/Belocherkovec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About me
 
-Here are some ideas to get you started:
+I build web applications from scratch and improve existing products, from internal tools to a social platform used by millions. I take features from requirements and technical design through testing and release.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work includes responsive authentication, browser and WebView flows, campaign analytics, and A/B experiments. At Moscow Metro, I independently built a React frontend and Node.js backend that replaced paper-based request processing.
+
+I enjoy solving complex problems, meetups, and good coffee ☕
+
+### 💻 Tech stack
+
+- **Frontend:** React, TypeScript, JavaScript, Next.js, HTML, CSS, SCSS
+- **State & forms:** Redux Toolkit, Zustand, MobX, React Hook Form, Zod
+- **Testing & build:** Jest, React Testing Library, Vitest, Vite, Webpack
+- **Backend & tools:** Node.js, Express, Sequelize, Git, Figma
+
+### 🛠️ Selected projects
+
+- [Messenger](https://github.com/Belocherkovec/2024-2-VK-EDU-Frontend-N-Kobyakov) — chat, photos, and voice messages.
+- [Lalasia](https://github.com/Belocherkovec/Lalasia-E-commerce) — an e-commerce storefront using a public API.
+
+### 📫 Let's connect
+
+[Email](mailto:belocherkovec@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nkbelotserkovets/) · [Telegram](https://t.me/belotserkovets) · [VK](https://vk.com/nkbelotserkovets)
